@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Gitpod/static/css/main.5545f5cb.chunk.css",
-    "main.js": "/Gitpod/static/js/main.652153aa.chunk.js",
-    "main.js.map": "/Gitpod/static/js/main.652153aa.chunk.js.map",
+    "main.js": "/Gitpod/static/js/main.0b2fa2a4.chunk.js",
+    "main.js.map": "/Gitpod/static/js/main.0b2fa2a4.chunk.js.map",
     "runtime-main.js": "/Gitpod/static/js/runtime-main.d418f52c.js",
     "runtime-main.js.map": "/Gitpod/static/js/runtime-main.d418f52c.js.map",
     "static/js/2.e0cd0aff.chunk.js": "/Gitpod/static/js/2.e0cd0aff.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.d418f52c.js",
     "static/js/2.e0cd0aff.chunk.js",
     "static/css/main.5545f5cb.chunk.css",
-    "static/js/main.652153aa.chunk.js"
+    "static/js/main.0b2fa2a4.chunk.js"
   ]
 }
