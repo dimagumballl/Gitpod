@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gitpod/static/css/main.8c8e4dde.chunk.css",
+    "main.css": "/Gitpod/static/css/main.e50aa37c.chunk.css",
     "main.js": "/Gitpod/static/js/main.652153aa.chunk.js",
     "main.js.map": "/Gitpod/static/js/main.652153aa.chunk.js.map",
     "runtime-main.js": "/Gitpod/static/js/runtime-main.d418f52c.js",
@@ -10,7 +10,7 @@
     "static/js/3.edbeff60.chunk.js": "/Gitpod/static/js/3.edbeff60.chunk.js",
     "static/js/3.edbeff60.chunk.js.map": "/Gitpod/static/js/3.edbeff60.chunk.js.map",
     "index.html": "/Gitpod/index.html",
-    "static/css/main.8c8e4dde.chunk.css.map": "/Gitpod/static/css/main.8c8e4dde.chunk.css.map",
+    "static/css/main.e50aa37c.chunk.css.map": "/Gitpod/static/css/main.e50aa37c.chunk.css.map",
     "static/js/2.e0cd0aff.chunk.js.LICENSE.txt": "/Gitpod/static/js/2.e0cd0aff.chunk.js.LICENSE.txt",
     "static/media/Code.5c3f331d.png": "/Gitpod/static/media/Code.5c3f331d.png",
     "static/media/Code1.f4fb53a2.png": "/Gitpod/static/media/Code1.f4fb53a2.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d418f52c.js",
     "static/js/2.e0cd0aff.chunk.js",
-    "static/css/main.8c8e4dde.chunk.css",
+    "static/css/main.e50aa37c.chunk.css",
     "static/js/main.652153aa.chunk.js"
   ]
 }
